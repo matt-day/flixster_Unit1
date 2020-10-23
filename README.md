@@ -25,4 +25,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
+I would try to run the project on a real device, but I dont have a USBc to lighting cable.
+
+Tried the auto layout, but couldn't get it to work properly. It may have to do with the whole view being taken up by the table and then the table cell inside of that. I couldn't lay constraints to the border of either of those views.
+
 When trying to pull the read me file to my local files, I accidentally stashed my changes for the flixter project. So, I had to figure out how the stash function works with git.
